@@ -1,0 +1,45 @@
+body {
+	margin: 2rem;
+	padding: 0;
+	background-color:#F5F5F5;
+}
+.top-title .title, .sub-title{
+	text-align: center;
+}
+hr {
+	margin: 3rem;
+}
+.top-navbar{
+	background-color: #F5F5F5;
+	font-style: italic;
+	margin-left: 25%;
+	padding: 0rem;
+}
+.breadcrumb-item a {
+	color: #000000;
+}
+.rec-images .rec-name {
+	color: #000000;
+	font-weight: bold;
+	font-style: italic;
+}
+.welcome img {
+	border-radius: 100%;
+}
+.border-line {
+	padding: 5%;
+}
+.col-images .first-img {
+	border-radius: 100%;
+}
+.col-images .btn {
+	background-color: #383838;
+	color: #FFFFFF;
+	text-align: center;
+}
+.bottom .details {
+	height: 300px;
+	background-color: #F5F5F5;
+
+}
+
